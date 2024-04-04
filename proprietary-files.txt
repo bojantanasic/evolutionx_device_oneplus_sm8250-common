@@ -2416,3 +2416,10 @@ vendor/lib/libwfduibcsrcinterface_proprietary.so
 vendor/lib/libwfdutils_proprietary.so
 vendor/lib/vendor.qti.hardware.wifidisplaysession@1.0.so
 vendor/lib/vendor.qti.hardware.wifidisplaysessionl@1.0-halimpl.so
+
+ # Perf - from OOS 13 qssi-user-13-TP1A.220905.001-1670556311503-release-keys--IN
+system/framework/QPerformance.jar
+system/framework/QXPerformance.jar
+system/framework/UxPerformance.jar
+system_ext/lib/libqti_performance.so
+system_ext/lib64/libqti_performance.so
