@@ -120,9 +120,6 @@ TARGET_KERNEL_ADDITIONAL_FLAGS := BRAND_SHOW_FLAG=oneplus
 TARGET_KERNEL_SOURCE := kernel/oneplus/sm8250
 TARGET_KERNEL_CONFIG := evo_defconfig vendor/debugfs.config
 TARGET_KERNEL_CLANG_VERSION := r450784d
-TARGET_KERNEL_NO_GCC := true
-TARGET_KERNEL_CLANG_AOSP := false
-TARGET_KERNEL_LLVM_BINUTILS := true
 TARGET_KERNEL_CLANG_PATH := $(shell pwd)/prebuilts/clang/host/linux-x86/clang-r450784d
 
 # Platform
